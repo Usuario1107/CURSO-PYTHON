@@ -1,0 +1,18 @@
+| Atajo (Windows)           | Acción                                     | Descripción                                                                                |
+| ------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| `Ctrl + C`                | Copiar                                     | Copia la selección o línea actual si no hay selección.                                     |
+| `Ctrl + X`                | Cortar                                     | Corta la selección o línea actual si no hay selección.                                     |
+| `Ctrl + V`                | Pegar                                      | Pega el contenido del portapapeles.                                                        |
+| `Ctrl + Shift + K`        | Eliminar línea                             | Borra la línea donde está el cursor.                                                       |
+| `Alt + Up` / `Alt + Down` | Mover línea arriba/abajo                   | Mueve la línea actual (o selección) hacia arriba o abajo.           
+   Shift + Alt + Down Arrow    copiar lien abajo o arriba                   |
+| `Ctrl + /`                | Comentar / descomentar línea               | Comenta o descomenta la línea actual o selección (usa `#` en Python).                      |
+| `Shift + Alt + A`         | Comentar / descomentar bloque (multilínea) | Comenta o descomenta un bloque con comentarios multilínea (`''' '''` o `""" """`).         |
+| `Ctrl + D`                | Seleccionar siguiente coincidencia         | Selecciona la siguiente ocurrencia del texto seleccionado (útil para múltiples ediciones). |
+| `Ctrl + F`                | Buscar en archivo                          | Abre la búsqueda dentro del archivo actual.                                                |
+| `Ctrl + H`                | Reemplazar en archivo                      | Abre la búsqueda con opción de reemplazo.                                                  |
+| `Ctrl + Shift + P`        | Paleta de comandos                         | Abre la paleta para buscar y ejecutar comandos.                                            |
+| `Ctrl + Space`            | Sugerencias / autocompletar                | Muestra sugerencias y autocompletado.                                                      |
+| `F8`                      | Ir al siguiente error / advertencia        | Navega entre errores o advertencias en el código.                                          |
+| `Ctrl + Enter`            | Insertar línea debajo                      | Inserta una nueva línea debajo de la actual y mueve el cursor.                             |
+| `Ctrl + Shift + Enter`    | Insertar línea arriba                      | Inserta una nueva línea arriba de la actual y mueve el cursor.                             |

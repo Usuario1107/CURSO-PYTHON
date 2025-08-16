@@ -1,0 +1,45 @@
+1. Función
+Qué es: Un bloque de código reutilizable que no está ligado a un objeto específico.
+
+Cómo se usa: Llamas la función y le pasas datos (argumentos).
+
+Ejemplos: print(), len(), type() o las que tú defines con def.
+
+Ventaja: Son más generales, pueden trabajar con cualquier dato que soporte la operación.
+
+📌 Ejemplo:
+
+python
+Copiar
+Editar
+def sumar(a, b):
+    return a + b
+
+resultado = sumar(3, 4)  # → 7
+2. Método
+Qué es: Una función que pertenece a un objeto o clase y se usa para manipular o consultar ese objeto.
+
+Cómo se usa: Se llama con un punto después del objeto.
+
+Ejemplos:
+
+Cadenas: "hola".upper()
+
+Listas: [1, 2, 3].append(4)
+
+Diccionarios: {"a": 1}.keys()
+
+Ventaja: Trabaja directamente sobre el dato/objeto al que pertenece.
+
+📌 Ejemplo:
+
+python
+Copiar
+Editar
+texto = "hola"
+mayus = texto.upper()  # upper() es un método de str
+💡 Diferencia clave:
+
+Función → independiente, la llamas por su nombre.
+
+Método → está “dentro” de un objeto y lo llamas con objeto.metodo().

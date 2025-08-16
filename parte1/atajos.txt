@@ -16,3 +16,6 @@
 | `F8`                      | Ir al siguiente error / advertencia        | Navega entre errores o advertencias en el código.                                          |
 | `Ctrl + Enter`            | Insertar línea debajo                      | Inserta una nueva línea debajo de la actual y mueve el cursor.                             |
 | `Ctrl + Shift + Enter`    | Insertar línea arriba                      | Inserta una nueva línea arriba de la actual y mueve el cursor.                             |
+
+mayor ctrol + alt + punto y coma para menor 
+

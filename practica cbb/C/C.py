@@ -1,26 +1,20 @@
 import heapq
-
 N_M = list(map(int, input().split()))
 N, M = N_M[0], N_M[1]
 
-
 grafo = [[] for _ in range(N + 1)]
-
 
 for _ in range(M):
     inicio, fin, peso = map(int, input().split())
     grafo[inicio].append((fin, peso))
 
 k = int(input())
-
-
 origen = 1
 destino = N
 
 cola = []
 
 heapq.heappush(cola, (0, origen, [origen]))
-
 
 caminos_encontrados = 0
 

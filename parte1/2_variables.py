@@ -1,7 +1,7 @@
 nombre = "juan"  #string 
 edad = 20        # entero
 decimal = 3.5    # flotante
-bool = True      #boleano -> True o False 
+bool = True      #boleano -> true o False 
 # ><
 
 #concatenar cadenas

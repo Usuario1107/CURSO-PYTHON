@@ -1,0 +1,10 @@
+-nombre: daniel 
+-edad :23 
+-deporte: padel
+-nombre: Juan 
+-edad :13 
+-deporte: pin pon
+linea 0 agregado
+linea 1 agregado
+linea 2 agregado
+linea 3 agregado

@@ -1,0 +1,5 @@
+Fecha,Hora,Sensor_Temperatura,Sensor_Humedad,Estado_Bomba
+26/08/2025,06:00,22.5,45,OFF
+26/08/2025,12:00,30.1,28,ON
+26/08/2025,18:00,25.3,35,ON
+26/08/2025,00:00,20,50,ON

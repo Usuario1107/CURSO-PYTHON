@@ -1,18 +1,29 @@
-# Entorno virtual
-venv/
-.env
-
-# Archivos compilados de Python
-*.pyc
-*.pyo
+# Ignorar carpetas de caché de Python
 __pycache__/
+**/__pycache__/
 
-# Configuraci ón del editor
+# Ignorar archivos compilados de Python
+*.py[cod]
+*$py.class
+
+# Ignorar entornos virtuales comunes
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Ignorar archivos de configuración de VS Code
 .vscode/
-.idea/
 
-# Archivos de registro
+# Ignorar archivos de logs y temporales
 *.log
+*.tmp
 
-# Otros
+# Ignorar bases de datos locales o archivos de prueba
+*.sqlite3
+*.db
+
+# Ignorar archivos de sistema
 .DS_Store
+Thumbs.db

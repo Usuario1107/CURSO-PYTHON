@@ -7,7 +7,7 @@ venv/
 *.pyo
 __pycache__/
 
-# Configuración del editor
+# Configuraci ón del editor
 .vscode/
 .idea/
 

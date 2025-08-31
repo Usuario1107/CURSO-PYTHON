@@ -24,3 +24,4 @@ for _ in range(tamaño):
         print("Más simetría horizontal.")
     else:
         print("Simetría igual.")
+        

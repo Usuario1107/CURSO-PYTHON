@@ -30,3 +30,7 @@ print(lista_numeros)
 
 indice = lista_numeros.index(56) # devuelve el indice del valor 56 si no encuentra devulve error encepcion y con count() deulve -1
 print(indice)
+
+cadena = "0123456789"
+print(cadena[0:9:2])
+print(cadena[0:4])
